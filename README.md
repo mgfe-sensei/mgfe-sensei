@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mgfe-sensei
 - 👀 I’m interested in Programming, and im making videos right now to my youtube channel, i have 6,000 + subs
-- 🌱 I’m currently learning ... JavaScript, C#, Java, VisualBasic, and.. this is not programming language: HTML, CSS 
-- 📫 U can reach me on discord if u have any question : mgfe-sensei#9999 
+- 🌱 I’m currently learning ... JavaScript, C#, Java, VisualBasic, 
+- 📫 U can reach me on discord if u have any question : mgfe-sensei#4308
